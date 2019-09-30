@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/resume/resume"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "马梦瑶的个人简历",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "名片",
+        "iconPath": "pages/image/indexnor.png",
+        "selectedIconPath": "pages/image/indexnor1.png",
+        "badge": "new"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "项目",
+        "iconPath": "pages/image/shebei.png",
+        "selectedIconPath": "pages/image/shebei1.png",
+        "badge": "new"
+      },
+      {
+        "pagePath": "pages/resume/resume",
+        "text": "简历",
+        "iconPath": "pages/image/user.png",
+        "selectedIconPath": "pages/image/user1.png",
+        "badge": "new"
+      }
+    ]
+  }
+}
