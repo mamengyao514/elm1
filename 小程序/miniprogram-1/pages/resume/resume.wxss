@@ -1,1 +1,24 @@
 /* pages/resume/resume.wxss */
+.resume{
+  
+}
+.tu-img image{
+    height:300rpx;
+}
+.experience{
+  background: rgb(255, 254, 254);
+  width: 620rpx;
+  height: 600rpx;
+  border:1px solid;
+  margin: 0 auto;
+  margin-top: -50rpx;
+  padding-left: 80rpx;
+  font-size:32rpx;
+  
+}
+.times{
+  line-height: 60rpx;
+  margin-left: 32rpx;
+  display: flex;
+      flex-wrap: wrap
+}

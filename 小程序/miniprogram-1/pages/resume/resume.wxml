@@ -1,5 +1,31 @@
 <!--pages/resume/resume.wxml-->
-<text> 
-<image></image>
-马梦瑶
-</text>
+<view class="resume">
+  <view class="tu">
+    <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2413963443,3953447049&          fm=26&gp=0.jpg"></image>
+  </view>
+  <view class="experience">
+      工作经历
+      <view class="times">
+        2018.10-2019.06
+        北京云科技有限公司
+      </view>
+
+      <view class="times">
+        2017.08-2018.10
+        北京欧博力科技有限公司
+      </view>
+
+       <view class="times">
+        2016.10-2017.07
+        运城市乐果乐食品科技有限公司
+      </view>
+
+      教育经历
+       <view class="times2">
+        2012.09-2016.07
+        山西农业大学信息学院
+      </view>
+  </view>
+</view>
+
+
